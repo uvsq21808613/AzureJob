@@ -1,0 +1,9 @@
+{
+	"name": "gitsassi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42140874-f71e-4a3b-8519-e87499fc5a6b",
+		"tenantId": "b87d9d98-8173-4140-86cc-76fd335586f2"
+	}
+}
